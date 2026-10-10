@@ -1,0 +1,5 @@
+,model,comparison,n,delta_pp,ci_lo,ci_hi
+0,Qwen/Qwen2.5-7B-Instruct,gen - loglik0,1320,0.45,-2.12,3.03
+1,Qwen/Qwen2.5-7B-Instruct,cot - loglik0,1320,3.71,0.91,6.67
+2,Qwen/Qwen3-8B,gen - loglik0,1320,-1.36,-3.64,0.91
+3,Qwen/Qwen3-8B,cot - loglik0,1320,6.74,4.02,9.39

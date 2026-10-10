@@ -1,0 +1,7 @@
+model,mode,Bengali,English,Gujarati,Hindi,Kannada,Malayalam,Marathi,Odia,Punjabi,Tamil,Telugu
+Qwen/Qwen2.5-7B-Instruct,cot,0.0,0.8,0.8,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,gen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qwen/Qwen2.5-7B-Instruct,loglik0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qwen/Qwen3-8B,cot,0.0,0.8,1.7,0.8,1.7,0.0,0.0,2.5,0.0,0.0,2.5
+Qwen/Qwen3-8B,gen,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0
+Qwen/Qwen3-8B,loglik0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0,0.0

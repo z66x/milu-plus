@@ -1,0 +1,9 @@
+torch
+transformers>=4.45
+accelerate
+bitsandbytes
+datasets
+pandas
+matplotlib
+tabulate
+huggingface_hub

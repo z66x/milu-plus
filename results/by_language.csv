@@ -1,0 +1,7 @@
+model,mode,Bengali,English,Gujarati,Hindi,Kannada,Malayalam,Marathi,Odia,Punjabi,Tamil,Telugu
+Qwen/Qwen2.5-7B-Instruct,cot,55.8,65.0,46.7,50.0,45.0,48.3,46.7,43.3,41.7,31.7,35.8
+Qwen/Qwen2.5-7B-Instruct,gen,49.2,64.2,40.0,48.3,41.7,42.5,45.8,44.2,35.8,30.8,31.7
+Qwen/Qwen2.5-7B-Instruct,loglik0,47.5,64.2,38.3,49.2,38.3,42.5,44.2,43.3,44.2,24.2,33.3
+Qwen/Qwen3-8B,cot,60.8,70.0,67.5,68.3,59.2,61.7,55.8,61.7,66.7,59.2,54.2
+Qwen/Qwen3-8B,gen,55.8,68.3,57.5,57.5,51.7,50.0,48.3,54.2,56.7,46.7,49.2
+Qwen/Qwen3-8B,loglik0,57.5,67.5,52.5,55.8,59.2,47.5,55.0,61.7,55.8,47.5,50.8
